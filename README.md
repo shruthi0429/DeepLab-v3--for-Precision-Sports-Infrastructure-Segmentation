@@ -86,6 +86,7 @@ utils.set_bn_momentum(model.backbone, momentum=0.01)
 
 ![image](https://github.com/user-attachments/assets/aa622173-6bcb-4d8b-a782-860d5cf65df8)
 
+![image](https://github.com/user-attachments/assets/e6a799ff-42d5-4167-a463-ddb2766805b7)
 
 
 ## Conclusion
