@@ -81,7 +81,14 @@ if opts.separable_conv and 'plus' in opts.model:
 utils.set_bn_momentum(model.backbone, momentum=0.01)
 ```
 
-## Conclusions and Results
+## Results
+![image](https://github.com/user-attachments/assets/b2ca3cb3-4a74-401f-8941-e8c4377b96e2)
+
+![image](https://github.com/user-attachments/assets/aa622173-6bcb-4d8b-a782-860d5cf65df8)
+
+
+
+## Conclusion
 The implementation demonstrated significant improvements in segmentation accuracy through:
 - Effective transfer learning utilization
 - Optimized hyperparameter selection
@@ -101,6 +108,4 @@ Potential areas for improvement:
 - OpenCV
 - NumPy
 - Labelme (for annotation)
-![image](https://github.com/user-attachments/assets/4454f085-0676-41d8-b25d-513f27803148)
 
-![image](https://github.com/user-attachments/assets/74382a74-7f4c-49f7-8b5c-7269cc8e1721)
